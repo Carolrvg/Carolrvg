@@ -70,16 +70,6 @@ contribuindo com criatividade, dedicação e paixão por tecnologia.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Carolrvg&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🤝 Vamos nos conectar?
 
 📌 Explore meus repositórios e acompanhe minha evolução  
